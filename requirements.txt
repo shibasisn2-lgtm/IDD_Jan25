@@ -1,4 +1,5 @@
+scikit-learn
 streamlit
 pandas
+openpyxl
 plotly
-scikit-learn
